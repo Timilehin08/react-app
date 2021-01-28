@@ -1,2 +1,2 @@
 # react-app
-a simple tic-tac-toe game with simple UI
+a tic-tac-toe app with a simple UI
